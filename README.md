@@ -38,3 +38,6 @@ To get started with this project, follow these steps:
 To run the project locally, use the following command:
 ```sh
 npm run dev
+```
+
+[Live Preview](https://bg-changer-xi.vercel.app/)
