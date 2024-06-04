@@ -26,7 +26,7 @@ To get started with this project, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd vite-react-bg-color-changer
+    cd bg-changer
     ```
 3. Install the dependencies:
     ```sh
