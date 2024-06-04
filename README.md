@@ -39,5 +39,5 @@ To run the project locally, use the following command:
 ```sh
 npm run dev
 ```
-
+## Hosted Project
 [Live Preview](https://bg-changer-xi.vercel.app/)
