@@ -1,8 +1,40 @@
-# React + Vite
+# Vite React Background Color Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application built with Vite that allows users to change the background color of the web page through an interactive interface.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Change the background color of the page using a color picker button.
+- Responsive design for mobile and desktop views.
+- Fast development experience with Vite.
+- Clean and modular React components.
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+    ```sh
+    git clone git@github.com:paulsaurav/bg-changer.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd vite-react-bg-color-changer
+    ```
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
+
+## Usage
+
+To run the project locally, use the following command:
+```sh
+npm run dev
